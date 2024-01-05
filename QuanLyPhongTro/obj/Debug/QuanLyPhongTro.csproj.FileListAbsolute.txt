@@ -1,0 +1,27 @@
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.SuggestedBindingRedirects.cache
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.KhachHang.resources
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Login.resources
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.QuanLyPhongTro.resources
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.QuanLyTaiKhoan.resources
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\84939\source\repos\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.SuggestedBindingRedirects.cache
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Admin.resources
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.KhachHang.resources
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Login.resources
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\HUFLIT\Các hệ quản trị CSDL\Đồ án\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
